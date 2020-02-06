@@ -1,4 +1,8 @@
-// files to cache
-//installing
-//active
-//fetch
+{
+    "name": "Budget Tracker App",
+    "short_name": "Budget Tracker App",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
