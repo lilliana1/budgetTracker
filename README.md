@@ -3,7 +3,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 Deployed app via heroku: https://budget-tracker-app-2020.herokuapp.com/
 
-![alt Screenshot](./public/assets/images/appscreenshot.png)
+![alt Screenshot](./public/images/appscreenshot.png)
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
