@@ -1,5 +1,6 @@
 # Budget Tracker
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. Progressive Web App features (manifest, service-worker, IndexedDB)
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. Progressive Web App features (manifest, service-worker, IndexedDB).
+
 Deployed app via heroku: https://budget-tracker-app-2020.herokuapp.com/
 
 ![alt Screenshot](./public/assets/images/appscreenshot.png)
